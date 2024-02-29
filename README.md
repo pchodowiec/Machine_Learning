@@ -1,0 +1,1 @@
+The goal of the Data Science process is to develop a machine learning model that, based on reviews written by app users, will determine whether a comment is positive or negative, and thus whether the reviewer recommends the app.
